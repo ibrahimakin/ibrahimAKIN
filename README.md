@@ -1,1 +1,2 @@
-![ibrahim AKIN's github stats](https://github-readme-stats.vercel.app/api?username=ibrahimakin&show_icons=true&theme=tokyonight)
+|![ibrahim AKIN's github stats](https://github-readme-stats.vercel.app/api?username=ibrahimakin&show_icons=true&theme=tokyonight) | [<img src="https://raw.githubusercontent.com/ibrahimakin/ibrahimAKIN/master/images/linkedin.png" width="50">](https://www.linkedin.com/in/ibrahim-AKIN) <br/> [<img src="https://raw.githubusercontent.com/ibrahimakin/ibrahimAKIN/master/images/blogger.png" width="50">](https://ibrahim-akin.blogspot.com) |
+|--|--|
