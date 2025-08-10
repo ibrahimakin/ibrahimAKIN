@@ -1,7 +1,7 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 320" transform="translate(2) scale(.8)" fill="#1a1b27" stroke="#e4e2e2" stroke-width="12">
-    <g transform="translate(122 10) rotate(22)">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 320" transform="scale(.8)" fill="#1a1b27" stroke="#e4e2e2" stroke-width="12">
+    <g transform="translate(138 10) rotate(24)">
         <rect x="0" y="0" width="58" height="60"></rect>
         <rect x="0" y="80" width="58" height="218"></rect>
     </g>
-    <polygon transform="translate(116 20)" points="74,24 178,266 130,288 96,208 0,208 20,158 78,158 48,88" />
+    <polygon transform="translate(124 20)" points="82,24 180,264 130,286 100,210 0,210 22,160 82,160 54,88" />
 </svg>
